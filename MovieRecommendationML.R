@@ -2,7 +2,7 @@
 
 #Source code: https://data-flair.training/blogs/data-science-r-movie-recommendation/
 
-setwd("C:/Users/vsgui/Documents/RProjects/MovieRecommendation")
+setwd("")
 getwd()
 
 install.packages("recommenderlab")
