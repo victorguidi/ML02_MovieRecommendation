@@ -1,6 +1,6 @@
 #Movie Recommendation
 
-#Source code: https://data-flair.training/blogs/data-science-r-movie-recommendation/
+#Project from: https://data-flair.training/blogs/data-science-r-movie-recommendation/
 
 setwd("")
 getwd()
